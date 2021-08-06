@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+disableKinds = ["page", "taxonomy", "terms", "section"]
+
+ignoreErrors = ["error-disable-taxonomy"]
